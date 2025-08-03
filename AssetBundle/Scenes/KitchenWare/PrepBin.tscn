@@ -1,3 +1,3 @@
-[gd_scene format=3 uid="uid://prhdduwscds4"]
+[gd_scene format=3 uid="uid://3m30xawa8ira"]
 
-[node name="PrepBin" type="Node2D"]
+[node name="PrepBin" type="Node3D"]
