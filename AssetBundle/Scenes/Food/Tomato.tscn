@@ -1,3 +1,3 @@
-[gd_scene format=3 uid="uid://dw7sjdsfrk4kr"]
+[gd_scene format=3 uid="uid://d1cpk134nsnvx"]
 
-[node name="Tomato" type="Node2D"]
+[node name="Tomato" type="Node3D"]
