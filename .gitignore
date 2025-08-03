@@ -1,0 +1,53 @@
+# Godot-specific
+.import/
+.export/
+.godot/
+/android/
+godot.env
+
+# Exported builds
+*.exe
+*.apk
+*.zip
+*.xcodeproj
+*.ios-sim
+*.pck
+*.dmg
+*.app
+*.tar.gz
+
+# User-specific editor settings (do not share)
+*.godot/settings-*.json
+.editor_settings-*.json
+
+# Crash logs and debug dumps
+*.log
+*.tmp
+*.backup
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+__MACOSX/
+
+# VSCode (optional)
+.vscode/
+
+# Rider / JetBrains IDEs (optional)
+.idea/
+*.sln
+*.csproj
+*.user
+*.suo
+
+# Godot Mono (C#) users (if not using C# 可忽略)
+mono/
+*.dll
+*.mdb
+*.pdb
+
+# 忽略本地构建目录
+build/
+bin/
